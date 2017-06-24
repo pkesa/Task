@@ -1,0 +1,17 @@
+form{
+     margin-left: auto;
+     margin-right: auto;
+     width: 250px;
+     border: 2px solid black;
+}
+
+h1{
+    text-decoration: underline;
+    display: inline;
+}
+
+div{
+    display: inline-block;
+    padding: 15px;
+}
+
